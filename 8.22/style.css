@@ -2,3 +2,30 @@ p.title {
   font-size: 30px;
   color: red;
 }
+
+.center-1 {
+  width: 500px;
+  height: 500px;
+}
+
+.body-1 {
+  width: 300px;
+  height: 500px;
+  display: flex;
+  flex-flow: row;
+}
+
+.left-side-1 {
+  height: max;
+  width: 250px;
+}
+
+.right-side-1 {
+  height: max;
+  width: 250px;
+}
+.footer-1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
